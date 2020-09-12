@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey there 👋
+ I'm **Ekin Abalıoğlu**. I have been interested in programming since my childhood, but I spent the last two years with web development and Flutter. I still work and keep learning. Also, I am studying computer engineering at Ege University(2/4).
 
-<!--
-**ekinndev/ekinndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
+* HTML & CSS
+* JavaScript
+* React, React Hooks, Redux, Context API
+* ESLint, Prettier, StyleLint, Storybook and similar technologies in development
 
-Here are some ideas to get you started:
+### Backend
+* Node.js
+* Express.js
+* MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mobile
+* Flutter
