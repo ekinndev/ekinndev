@@ -7,7 +7,7 @@
 * React, React Hooks, Redux, Context API
 * ESLint, Prettier, StyleLint, Storybook and similar technologies in development
 
-### Backend
+:bomb: ### Backend
 * Node.js
 * Express.js
 * MongoDB
