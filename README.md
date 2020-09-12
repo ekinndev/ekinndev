@@ -5,7 +5,6 @@
 * HTML & CSS
 * JavaScript
 * React, React Hooks, Redux, Context API
-* ESLint, Prettier, StyleLint, Storybook and similar technologies in development
 
 ### :bomb:Backend
 * Node.js
