@@ -5,6 +5,7 @@
 * HTML & CSS
 * JavaScript
 * React, React Hooks, Redux, Context API
+* Svelte
 
 ### :bomb:Backend
 * Node.js
