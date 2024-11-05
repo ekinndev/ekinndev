@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekinndev&label=Profile%20views&color=0e75b6&style=flat" alt="ekinndev" /> </p>
 
-- 🔭 I’m currently working on [ContentsGrad](https://github.com/ekinndev/contentsgrad)
+- 🔭 I’m currently working on -
 
-- 🌱 I’m currently learnin **Moralis,Web3,Solidity**
+- 🌱 I’m currently learnin -
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about -
 
 - 📫 How to reach me **me@ekinn.dev**
 
